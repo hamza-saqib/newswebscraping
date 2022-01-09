@@ -1,0 +1,8 @@
+#run following command
+# pip install -r requirements.txt
+#---------------------------------------
+
+bs4
+lxml
+pandas
+requests
